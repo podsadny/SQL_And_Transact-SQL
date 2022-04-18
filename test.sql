@@ -1,3 +1,5 @@
+--comment
+
 --select count(*) from [SalesLT].[Product];
 --select * from [SalesLT].[Product];
 --select count(*)  from [SalesLT].[Product] GROUP by Color; 
