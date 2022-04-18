@@ -1,4 +1,6 @@
 --comment
+-- this file contains examples of queries for students
+-- it is going to be updated with description explaining examples
 
 --select count(*) from [SalesLT].[Product];
 --select * from [SalesLT].[Product];
